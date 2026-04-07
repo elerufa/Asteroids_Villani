@@ -42,8 +42,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: sfondo
+    uniqueID: 1654592301
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 2223419413
     locked: 0
   m_RenderingLayers:
   - Default
